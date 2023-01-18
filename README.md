@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :zap: I teach cybersecurity to high school students, always looking for new material!
+- 🌱 Right now I'm working on my C|EH certification.
+- 📫 Feel free to email me: benjamin.dougherty@lakotaonline.com
